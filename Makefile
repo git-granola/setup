@@ -1,4 +1,5 @@
-#Makefile for CS479 - 1
+#Generic makefile
+#outputs a.out, uses help.cpp, help.h as header, main for main
 
 TARGET = a.out
 #OPENCV = `pkg-config opencv --libs --cflags`
